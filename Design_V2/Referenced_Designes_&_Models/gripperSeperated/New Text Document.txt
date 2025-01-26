@@ -1,8 +1,0 @@
-Outer bore depth   3
-Outer bore diameter 5
-
-inner bore diameter 2
-Inner bore depth 1
-
-Outer diame 9.1
-width 4
